@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate with Developers .
 - 📫 How to reach me vijaymar3@gmail.com.
 
-<a href="https://www.freepik.com/vectors/design"></a>
+<a href="https://www.freepik.com/vectors/design">Design vector created by user2104819 - www.freepik.com</a>
 <!---
 Iam-Vijay/Iam-Vijay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
