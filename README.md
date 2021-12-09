@@ -1,7 +1,7 @@
 # 👓 Hey Hello,  Iam Vijay ❤️ 
 
 -👋 Hi, I’m @Iam-Vijay
-- 👀 I’m interested in MotherBoard.
+- 👀 I’m always interested in MotherBoard.
 - 🌱 I’m currently learning swift and C#.
 - 💞️ I’m looking to collaborate with Developers .
 - 📫 How to reach me vijaymar3@gmail.com.
