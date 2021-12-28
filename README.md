@@ -12,12 +12,13 @@
  -Whatsapp Automation using Python Selenium </br>
  -3D Game Development in Unity using C# </br>
  -Cryptocurrency based Ios and Android app </br>
- 
+ </br>
+ </br>
 <img src="https://media.giphy.com/media/IbaHSmEeJGqk/giphy.gif"   width="350" />
 
 
 
-<h4>Time is free, but it’s priceless. You can’t own it, but you can use it. You can’t keep it, but you can spend it. Once you’ve lost it, you can never get it back.</h4>
+<h3>Time is free, but it’s priceless. </br> You can’t own it, but you can use it. You can’t keep it, but you can spend it. Once you’ve lost it, you can never get it back.</h3>
 
 <img src="https://media.giphy.com/media/3oz8xKaR836UJOYeOc/giphy.gif"   width="250" />
 
