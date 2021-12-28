@@ -6,8 +6,7 @@
 - 💞️ I’m looking to collaborate with Developers .
 - 📫 How to reach me vijaymar3@gmail.com.
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="vijay-s-2a1938212" data-version="v1">
- <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vijay-s-2a1938212?trk=profile-badge">vijay S</a></div>
+<iframe src="https://giphy.com/embed/4NtQSpNsdxtv2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/images-tick-clock-bomb-4NtQSpNsdxtv2">via GIPHY</a></p>
               
 <!---
 Iam-Vijay/Iam-Vijay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
