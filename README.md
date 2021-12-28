@@ -7,11 +7,13 @@
 - 📫 How to reach me vijaymar3@gmail.com.
 
 
-<h4> Worked Projects </h4>
+<h2> Worked Projects </h2>
  -Ardunio Based IOT Projects </br>
  -Whatsapp Automation using Python Selenium </br>
  -3D Game Development in Unity using C# </br>
  -Cryptocurrency based Ios and Android app </br>
+ 
+<img src="https://media.giphy.com/media/IbaHSmEeJGqk/giphy.gif"   width="350" />
 
 
 
