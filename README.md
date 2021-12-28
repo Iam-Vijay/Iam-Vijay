@@ -9,9 +9,9 @@
 
 <h4> Worked Projects </h4>
  -Ardunio Based IOT Projects </br>
- -Whatsapp Automation using Python Selenium
- -3D Game Development in Unity using C#
- -Cryptocurrency based Ios and Android app
+ -Whatsapp Automation using Python Selenium </br>
+ -3D Game Development in Unity using C# </br>
+ -Cryptocurrency based Ios and Android app </br>
 
 
 
