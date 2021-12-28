@@ -7,7 +7,15 @@
 - 📫 How to reach me vijaymar3@gmail.com.
 
 
-<h2>Time is free, but it’s priceless. You can’t own it, but you can use it. You can’t keep it, but you can spend it. Once you’ve lost it, you can never get it back.</h2>
+<h4> Worked Projects </h4>
+ -Ardunio Based IOT Projects
+ -Whatsapp Automation using Python Selenium
+ -3D Game Development in Unity using C#
+ -Cryptocurrency based Ios and Android app
+
+
+
+<h4>Time is free, but it’s priceless. You can’t own it, but you can use it. You can’t keep it, but you can spend it. Once you’ve lost it, you can never get it back.</h4>
 
 <img src="https://media.giphy.com/media/3oz8xKaR836UJOYeOc/giphy.gif"   width="250" />
 
