@@ -18,11 +18,7 @@
 
 
 </br>
-</br>
-<h1>🏃‍♂️ Run Run Run 🏃‍♂️<h1>
-<h3>Time is free, but it’s priceless. </br> You can’t own it, but you can use it.</br>  You can’t keep it, but you can spend it. </br> Once you’ve lost it, you can never get it back.</h3>
 
-<img src="https://media.giphy.com/media/3oz8xKaR836UJOYeOc/giphy.gif"   width="250" />
 
 <!---
 Iam-Vijay/Iam-Vijay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
