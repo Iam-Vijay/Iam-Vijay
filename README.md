@@ -14,11 +14,9 @@
  -Cryptocurrency based Ios and Android app </br>
  </br>
  </br>
-<img src="https://media.giphy.com/media/IbaHSmEeJGqk/giphy.gif"   width="350" />
-
 
 </br>
-<img src ="https://giphy.com/gifs/house-computer-working-cg5FwpvDmhIcM/fullscreen" width="350" />
+<img src ="https://media.giphy.com/media/cg5FwpvDmhIcM/giphy.gif" width="350" />
 
 
 <!---
