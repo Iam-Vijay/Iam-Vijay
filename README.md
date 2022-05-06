@@ -16,7 +16,7 @@
  </br>
 
 </br>
-![Image]("https://media.giphy.com/media/3ov9k1J6jahVhiev0Q/giphy.gif")
+![Image](https://media.giphy.com/media/3ov9k1J6jahVhiev0Q/giphy.gif)
 </br>
 <img src="https://media.giphy.com/media/3ov9k1J6jahVhiev0Q/giphy.gif" width="40" height="40" />
 
