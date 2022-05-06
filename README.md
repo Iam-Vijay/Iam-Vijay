@@ -16,8 +16,7 @@
  </br>
 
 </br>
-<img src ="https://media.giphy.com/media/3ov9k1J6jahVhiev0Q/giphy.gif" width="350" />
-
+<div style="width:100%;height:0;padding-bottom:42%;position:relative;"><iframe src="https://giphy.com/embed/3ov9k1J6jahVhiev0Q" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/marvelstudios-3ov9k1J6jahVhiev0Q">via GIPHY</a></p>
 
 <!---
 Iam-Vijay/Iam-Vijay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
